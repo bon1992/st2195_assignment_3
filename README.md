@@ -6,6 +6,7 @@ SQLite Database called airline2.db with the following tables:
   2. airports (with the data in airports.csv)
   3. carriers (with the data in carriers.csv)
   4. planes (with the data in plane-data.csv)
+     
 Create a GitHub repository called “st2195_assignment_3” that includes:
   1. a README.md file with a short markdown description of this assignment and a 
      reference to the Data Expo 2009 data, and the Harvard Dataverse [1 point]
@@ -16,6 +17,7 @@ Create a GitHub repository called “st2195_assignment_3” that includes:
      on sqlite3 [1.75 points]
   4. A simplified solution for the query in Q4 in either R or Python (placed either in 
      the R or Python *_sql folder) [1.75 points]
+     
 Note that the database file should not be placed in the GitHub repository (it is quite 
 large). Also, the R and Python scripts should save the output of the queries in csv within 
 their respective folders [1 point each]
